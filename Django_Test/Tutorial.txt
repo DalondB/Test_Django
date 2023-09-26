@@ -1,0 +1,21 @@
+----------SETUP----------
+
+Tutorial: https://youtu.be/nGIg40xs9e4
+
+Install Django: 
+- pip install django (in powershell)
+- pip3 install django (ONLY FOR MAC AND LINUX)
+
+Create Django Project:
+- django-admin startproject project_name
+- cd project_name
+- python manage.py startapp name_of_app
+    - Add string of name_of_app in project_name's settings.py in INSTALLED_APPS
+
+Run Server
+- python manage.py runserver
+
+#NOTE#
+Django applications are pug and play. They can be pasted into any Django project and run
+
+
