@@ -18,4 +18,6 @@ Run Server
 #NOTE#
 Django applications are pug and play. They can be pasted into any Django project and run
 
-
+Django Admin Panel (Used to add items to Todo List)
+- (Create a user)
+    - python manage.py createsuperuser
